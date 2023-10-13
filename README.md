@@ -66,9 +66,8 @@ El componente `Navbar` proporciona enlaces de navegación a diferentes secciones
 - styled-components
 - Cloudinary
 
-## Contribuidores
+## Echo por
 
-- [Tu Nombre]
-- [Otros Contribuidores]
+- [Luis Daniel Esquivia Hernandez]
 
 ¡Siéntete libre de contribuir, informar problemas o sugerir mejoras!
